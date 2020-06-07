@@ -1,4 +1,4 @@
-Character Reader
+# Mo Calculator
 This is my first Android App built using Kotlin during the 30DaysOfKotlin campaign
 About App
 It's a very simple app that is based on Kotlin and ML Kit.
